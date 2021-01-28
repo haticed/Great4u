@@ -21,7 +21,7 @@ header{
     height: 200px;
     font-family:cursive;
     text-align:center;
-    background-image: url(foto/head.jpg);
+    background-image: url(https://github.com/haticed/Great4u/blob/master/foto/head.jpg);
     background-position: center;
     background-size: 160%;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@ header .mobile{
     display: none;
 }
 .logo a{
-    background-image: url(foto/logo.png);
+    background-image: url(https://github.com/haticed/Great4u/blob/master/foto/logo.png);
     display: inline-block;
     background-size: 90px;
     background-repeat: no-repeat;
