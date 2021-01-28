@@ -38,7 +38,7 @@ header .mobile{
     display: none;
 }
 .logo a{
-    background-image: url(https://github.com/haticed/Great4u/blob/master/foto/logo.png);
+    background-image: url(foto/logo.png);
     display: inline-block;
     background-size: 90px;
     background-repeat: no-repeat;
